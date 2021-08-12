@@ -17,6 +17,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     NSLog(@"这里来过了吗");
+    NSLog(@"这是我的第一个提交");
 }
 
 
